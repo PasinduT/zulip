@@ -1170,6 +1170,10 @@ nav ul li.active::after {
     background-color: transparent;
     box-shadow: none;
 }
+.integration-page-padding{
+    padding-top: 50px;
+    padding-bottom: 0px;
+}
 
 .portico-landing.hello .screen.hero-screen::before,
 .portico-landing.hello .screen.hero-screen::after {
